@@ -19,7 +19,7 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🎧 Owner Bot 🎧", url="https://github.com/Infinity-Bots/GroupMusicPlayerBot")
+                        "🎧 Owner Bot 🎧", url="https://t.me/mondisini")
                   ],[
                     InlineKeyboardButton(
                         "💬 Group", url="https://t.me/monsupportgruop"
